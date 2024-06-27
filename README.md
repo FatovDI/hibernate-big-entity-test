@@ -1,0 +1,1 @@
+# hibernate-big-entity-test
